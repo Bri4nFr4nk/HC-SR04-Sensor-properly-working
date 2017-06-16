@@ -1,2 +1,9 @@
 # HC-SR04-Sensor-properly-working
 Raspberry Pi 3, Python
+
+Going through the internet I saw lots of people having the same problems with the HC-SR04 as I did.
+There were no solutions for this problems:
+-it returned values up to 4000cm
+-the script got stuck when the sensor didn't recieve an  echo
+
+After trying a lot of methods, I figured out that these issues were quite simple to fix.
