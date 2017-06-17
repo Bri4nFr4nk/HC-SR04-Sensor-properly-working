@@ -7,3 +7,13 @@ There were no solutions for this problems:
 -the script got stuck when the sensor didn't recieve an  echo
 
 After trying a lot of methods, I figured out that these issues were quite simple to fix.
+
+
+Things you need:
+- HC-SR04
+- RPi3 + Raspbian
+- 330 Ohm Resistor
+- 470 Ohm Resistor
+- 10 kOhm Resistor
+- 2N2222 NPN Transistor
+- Jumper wires
